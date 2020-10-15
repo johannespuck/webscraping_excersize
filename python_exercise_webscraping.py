@@ -5,7 +5,7 @@ Created on Tue Sep 17 10:21:32 2019
 @author: DerJo
 """
 
-# Query the Web API of Wikipedia for the revisions of the article on Hillary Clinton
+# Query the Web API of Wikipedia for the links in the article on Hillary Clinton
 
 
 # Makes the plots appear within the notebook
